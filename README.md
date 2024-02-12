@@ -1,1 +1,2 @@
-A wrtie upp for ctf problems from different platforms
+
+MY solutions for different cyber security problems(CTF) challenges .
