@@ -2,8 +2,10 @@
 MY solutions for different cyber security problems(CTF) challenges .
 
 
-general skills:
-  1.picoCTF = general information
-  2.bandit over the write = linux
-  3.cybertalent = general skill and bash
-  4.THM and HTB = privelege escalation 
+some content of he page includes a solutions for 
+generka skill problems
+networking related
+cryptography
+digital forensics
+web security
+malware adn reverse engieering and many more from different CTF platforms and rellife pentests that i made
