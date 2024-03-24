@@ -25,4 +25,10 @@ malware adn reverse engieering and many more from different CTF platforms and re
         https://www.udemy.com/course/digital-forensics-course/learn/lecture/33508410?start=0#overview
 
 
+
+resources for binary exploitation and forensics
+
+https://guyinatuxedo.github.io/07-bof_static/bkp16_simplecalc/index.html
+
+
     
